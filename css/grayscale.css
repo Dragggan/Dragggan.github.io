@@ -65,6 +65,15 @@ h3.githubHeadline {
 }
 
 
+.lead {
+    padding-bottom: 56px;
+}
+
+#experience{
+    background-color: #0c50e908;
+    border-radius: 20px;
+}
+
 @media (max-width: 991px) {
     .container-fluid a.navbar-brand,button.collapsed{
         position: relative;
